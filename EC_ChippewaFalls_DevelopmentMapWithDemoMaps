@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#022345",
+        "stroke": "#006699",
         "stroke-width": 3,
         "stroke-opacity": 1,
         "fill": "#00ff33",
@@ -593,7 +593,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#022345",
+        "stroke": "#0006699",
         "stroke-width": 3,
         "stroke-opacity": 1,
         "fill": "#ccff33",
@@ -1402,7 +1402,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#022345",
+        "stroke": "#006699",
         "stroke-width": 3,
         "stroke-opacity": 1,
         "fill": "#cc0033",
@@ -2599,7 +2599,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#022345",
+        "stroke": "#006699",
         "stroke-width": 3,
         "stroke-opacity": 1,
         "fill": "#77ffds",
