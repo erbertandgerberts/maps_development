@@ -593,7 +593,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#0006699",
+        "stroke": "#006699",
         "stroke-width": 3,
         "stroke-opacity": 1,
         "fill": "#ccff33",
@@ -2602,7 +2602,7 @@
         "stroke": "#006699",
         "stroke-width": 3,
         "stroke-opacity": 1,
-        "fill": "#77ffds",
+        "fill": "#77ff",
         "fill-opacity": 0.3
       },
       "geometry": {
@@ -3235,7 +3235,13 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#006699",
+        "stroke-width": 3,
+        "stroke-opacity": 1,
+        "fill": "#1D59B1",
+        "fill-opacity": 0.3
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3574,7 +3580,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#006699",
+        "stroke-width": 3,
+        "fill": "77ffds",
+        "fill-opacity": 0.3
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3797,3 +3808,4 @@
     }
   ]
 }
+
